@@ -10,9 +10,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> Classified Intel: Skills & Arsenal
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> Classified Intel: Skills & Arsenal
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> My Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,go,bash,php,js,laravel,django,postgresql,mysql,docker,linux,vim,git,grafana,postman,graphql,redis&theme=dark&perline=9" />
