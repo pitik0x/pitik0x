@@ -10,38 +10,25 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> Terminal Access
-
-```bash
-user@github:~$ whoami
-> Cyber Security Enthusiast | Penetration Tester | Fullstack Dev
-
-user@github:~$ cat skills.txt
-> Languages: Python, Go, Bash, JavaScript
-> Tools: Burp Suite, Metasploit, Docker, Kali Linux
-
-user@github:~$ ./current_mission.sh
-> Exploring Zero-Day Vulnerabilities & Building Secure APIs
-
-🧠 Tech Stack & Arsenal
-<p align="center"> <!-- Languages --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /> <!-- Tools --> <img src="https://www.vectorlogo.zone/logos/kaliorg/kaliorg-icon.svg" width="40" alt="Kali Linux" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Metasploit_logo.png" width="40" alt="Metasploit" /> <img src="https://www.svgrepo.com/show/354202/burpsuite-icon.svg" width="40" alt="Burp Suite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" /> </p>
-🕶️ About Me
-
-user@github:~$ curl whoami.json
-{
-  "alias": "pitik0x",
-  "location": "127.0.0.1",
-  "interest": ["Offensive Security", "Secure API Dev", "System Exploitation"],
-  "motto": "Stay stealthy, stay ethical."
-}
-
-📡 Ping Me
-
-    🔗 LinkedIn
-
-📺 YouTube
-
-🧠 TryHackMe
-
-    🟢 System Status: Monitoring anomalies...
-    🧬 Next Mission: Red Teaming Simulation & API Security Hardened Design
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> My Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
