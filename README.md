@@ -13,23 +13,19 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> Classified Intel: Skills & Arsenal
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=py,php,js,ts,postgresql,mysql,grafana,linux,git&theme=dark" />
-  
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Wireshark-16214E?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=py,go,c,cpp,bash,php,js&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=laravel,django,postgresql,mysql,docker,aws,linux,vim,git,grafana&theme=dark" />  <img src="https://img.shields.io/badge/Wireshark-16214E?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-
 </div>
 
 ---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> Capture The Flag Status
 
-<div align="center">
+<div>
   <a href="https://tryhackme.com/p/Daphid99">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Daphid99.png" alt="TryHackMe Badge" />
   </a>
