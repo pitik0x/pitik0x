@@ -10,7 +10,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> My Skills
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> <h2>My Skills</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
