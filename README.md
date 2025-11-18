@@ -32,3 +32,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
+
+<h1>TryHackMe</h1>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5133327" style='border:none;'></iframe>
