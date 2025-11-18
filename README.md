@@ -10,28 +10,27 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> <h2>My Skills</h2>
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> Classified Intel: Skills & Arsenal
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+  <img src="https://skillicons.dev/icons?i=py,php,js,ts,postgresql,mysql,grafana,linux,git&theme=dark" />
+  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Wireshark-16214E?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
 </div>
 
-<h1>TryHackMe</h1>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5133327" style='border:none;'></iframe>
+---
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3bnZucWZ3/iHD88spANkwoqFmnq1/giphy.gif" width="30"> Capture The Flag Status
+
+<div align="center">
+  <a href="https://tryhackme.com/p/Daphid99">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Daphid99.png" alt="TryHackMe Badge" />
+  </a>
+</div>
