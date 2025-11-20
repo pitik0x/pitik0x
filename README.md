@@ -14,6 +14,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,go,bash,php,js,laravel,django,postgresql,mysql,docker,linux,vim,git,grafana,postman,graphql,redis&theme=dark&perline=9" />
+   <img src="https://skillicons.dev/icons?i=py,cpp,go,bash,php,js,laravel,django,postgresql,mysql,docker,linux,vim,git,grafana,postman,graphql,redis&theme=dark&perline=9" />
   <br>
   <img src="https://img.shields.io/badge/Wireshark-16214E?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
